@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-⚓ Future Marine Engineer • Developer • Offshore Robotics Enthusiast
+⚓ Cadet in the Merchant Navy • Developer • Offshore Robotics Enthusiast
 </h3>
 
 <p align="center">
@@ -63,21 +63,9 @@ Conception d’un bateau autonome et éco-efficient.
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YannKerherve&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannKerherve&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YannKerherve&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-# 🏆 Trophées
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YannKerherve&theme=algolia&no-frame=true&row=1"/>
-</p>
 
 ---
 
@@ -91,20 +79,9 @@ Conception d’un bateau autonome et éco-efficient.
 
 ❄️ Mesurer l’épaisseur de la banquise
 
----
-
-# ⚡ Fun fact
-
-Je passe plus de temps à parser des trames NMEA qu’à regarder la météo 🌬️
 
 ---
 
-# ⏱️ Wakatime stats
-
-<!-- Remplacer par ton badge wakatime si activé -->
-Coming soon…
-
----
 
 # 📫 Contact
 

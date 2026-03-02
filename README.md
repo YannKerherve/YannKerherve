@@ -32,7 +32,6 @@ Affichage de la position d’un navire en temps réel via données GNSS.
 
 🔗 https://github.com/YannKerherve/Ship-position
 
----
 
 ### 🛥️ HydroSpeed – Hydrocontest  
 Conception d’un bateau autonome et éco-efficient.

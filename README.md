@@ -34,7 +34,7 @@ Affichage en temps réel de la position d’un navire via données GNSS
 
 🔗 https://yannkerherve.github.io/position-plugin
 
----
+
 
 ## 🛥️ HydroSpeed – Hydrocontest (2024–2026)
 Conception et construction d’un bateau autonome et éco-efficient.  

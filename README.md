@@ -148,7 +148,7 @@ Système intelligent d’automatisation d’arrosage de jardin.
 
 ⚡ Concevoir, construire et programmer un bateau pour l’Hydrocontest  
 📳 Intégration TCP NMEA dans l’application Android Windy  
-📖 Développement du moteur d’analyse avancé de C18LW  
+📖 Dévoillement du moteur d’analyse avancé de C18LW  
 
 ---
 

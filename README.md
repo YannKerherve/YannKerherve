@@ -88,13 +88,15 @@ Système intelligent d’automatisation d’arrosage de jardin.
 ---
 
 ## 🤖 Robotique & embarqué
-Arduino  
-Raspberry Pi  
-Capteurs  
-GNSS  
-ArduPilot  
-NMEA  
-Systèmes embarqués marins  
+## 🤖 Robotique & Embarqué
+
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Capteurs](https://img.shields.io/badge/Capteurs-4A90E2?style=for-the-badge&logo=sensu&logoColor=white)
+![GNSS](https://img.shields.io/badge/GNSS-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white)
+![ArduPilot](https://img.shields.io/badge/ArduPilot-EE7C00?style=for-the-badge&logo=ardupilot&logoColor=white)
+![NMEA](https://img.shields.io/badge/NMEA-1E3A8A?style=for-the-badge&logo=databricks&logoColor=white)
+![Systèmes_Embarqués](https://img.shields.io/badge/Systèmes_Embarqués-2C3E50?style=for-the-badge&logo=chip&logoColor=white)
 
 ---
 
@@ -110,24 +112,29 @@ Systèmes embarqués marins
 ---
 
 ## 📱 Développement mobile
-App Inventor  
-Android Studio  
-Applications utilisant IMU, GNSS et TCP  
+
+![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-DD2C00?style=for-the-badge&logo=android&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![IMU](https://img.shields.io/badge/IMU-00599C?style=for-the-badge&logo=accelerometer&logoColor=white)
+![GNSS](https://img.shields.io/badge/GNSS-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP/IP-1F2937?style=for-the-badge&logo=protocolsdotio&logoColor=white)
 
 ---
 
 ## 🧰 Conception & fabrication
-Autodesk Inventor  
-FreeCAD  
-Impression 3D  
-Prototypage mécanique  
+
+![Autodesk Inventor](https://img.shields.io/badge/Autodesk_Inventor-E51050?style=for-the-badge&logo=autodesk&logoColor=white)
+![FreeCAD](https://img.shields.io/badge/FreeCAD-729FCF?style=for-the-badge&logo=freecad&logoColor=white)
+![Impression 3D](https://img.shields.io/badge/Impression_3D-FF6F00?style=for-the-badge&logo=prusa&logoColor=white)
+![Prototypage mécanique](https://img.shields.io/badge/Prototypage_Mécanique-2C3E50?style=for-the-badge&logo=gear&logoColor=white)
 
 ---
 
 ## 🎨 Design & communication
-Canva  
-Dossiers de sponsoring  
-Communication technique de projets  
+
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Sponsoring](https://img.shields.io/badge/Dossiers_de_Sponsoring-1E3A8A?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Communication Technique](https://img.shields.io/badge/Communication_Technique-34495E?style=for-the-badge&logo=markdown&logoColor=white)
 
 ---
 

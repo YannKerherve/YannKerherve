@@ -54,7 +54,7 @@ Responsable communication & développement du site internet.
 ## 📖 C18LW (2025–2026)
 Outil de recherche et de comparaison de livres complets.
 
-🔗 https://a-venir.fr/
+🔗 https://en-attente-de-parution-oficielle.fr/
 
 ---
 

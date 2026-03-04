@@ -114,7 +114,6 @@ Système intelligent d’automatisation d’arrosage de jardin.
 
 ![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-DD2C00?style=for-the-badge&logo=android&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
-![IMU](https://img.shields.io/badge/IMU-00599C?style=for-the-badge&logo=accelerometer&logoColor=white)
 ![GNSS](https://img.shields.io/badge/GNSS-0A66C2?style=for-the-badge&logo=googleearth&logoColor=white)
 ![TCP/IP](https://img.shields.io/badge/TCP/IP-1F2937?style=for-the-badge&logo=protocolsdotio&logoColor=white)
 

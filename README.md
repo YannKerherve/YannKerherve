@@ -90,7 +90,7 @@ Système intelligent d’automatisation d’arrosage de jardin.
 ## 🤖 Robotique & embarqué
 Arduino  
 Raspberry Pi  
-Capteurs IMU  
+Capteurs  
 GNSS  
 ArduPilot  
 NMEA  
@@ -105,7 +105,6 @@ Resend
 Cloudflare  
 Tunnel DNS (ngrok)  
 Let’s Encrypt (certificats SSL)  
-Déploiement Linux VPS  
 
 ---
 

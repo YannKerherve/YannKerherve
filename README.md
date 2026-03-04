@@ -30,13 +30,39 @@ Finistère ⚓ Le Havre
 ### 🛰️ Ship Position – Windy plugin  
 Affichage de la position d’un navire en temps réel via données GNSS.
 
-🔗 https://github.com/YannKerherve/Ship-position
+🔗 https://yannkerherve.github.io/position-plugin
 
 
 ### 🛥️ HydroSpeed – Hydrocontest  
 Conception d’un bateau autonome et éco-efficient.
 
-🔗 https://github.com/YannKerherve/hydrospeed
+🔗 https://hydrospeedteam.fr
+
+### ⛵ HydroSailing team – Hydrocontest  
+Respo Com' et site internet.
+
+🔗 https://hydrosailingteam.com
+
+### 📖 C18LW  
+Outil de recherche et de comparaisons de nombreux livres entiers entre eux.
+
+🔗 https://à-venir.fr/
+
+### 🗺️ Olex to GPX  
+Permettre l'export d'une route créée avec Olex vers un ECDIS.
+
+🔗 https://github.com/YannKerherve/Olex-to-GPX
+
+### 🛥️ Ammare ton bateau 
+Permettre l'export d'une route créée avec Olex vers un ECDIS.
+
+🔗 https://github.com/YannKerherve/Olex-to-GPX
+
+### 🌱 Arros'heure
+Permettre l'automatisation de l'arrosage d'un jardin.
+
+🔗 https://sites.google.com/view/arros-heure/
+
 
 ---
 
@@ -70,14 +96,16 @@ Conception d’un bateau autonome et éco-efficient.
 
 # 🌱 Currently learning
 
-⚡ Concevoir et construire un bateau pour l’#Hydrocontest
+⚡ Concevoir, construire et programmer un bateau pour l’Hydrocontest
+📳 Plugin Windy : Recevoir la connexion TCP - NMEA sur l'application Android de Windy
+📖 C18LW : à venir...
 
 ---
 
 # 🧭 Objectifs 2026
 
 ❄️ Mesurer l’épaisseur de la banquise
-
+🧭 Application d'estime par acéleromètre
 
 ---
 

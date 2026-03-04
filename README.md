@@ -42,35 +42,31 @@ Optimisation énergétique, propulsion, architecture embarquée.
 
 🔗 https://hydrospeedteam.fr
 
----
 
 ## ⛵ HydroSailing Team (2025–2026)
 Responsable communication & développement du site internet.
 
 🔗 https://hydrosailingteam.com
 
----
 
 ## 📖 C18LW (2025–2026)
 Outil de recherche et de comparaison de livres complets.
 
 🔗 https://en-attente-de-parution-oficielle.fr/
 
----
 
 ## 🗺️ Olex to GPX (2025)
 Conversion de routes Olex vers le format GPX pour intégration ECDIS.
 
 🔗 https://github.com/YannKerherve/Olex-to-GPX
 
----
 
 ## 🛥️ Ammarre ton bateau (2022)
 Système automatisé de prise de coffre pour voiliers.
 
 🔗 https://sites.google.com/view/amarretonbateau/
 
----
+
 
 ## 🌱 Arros’heure (2020)
 Système intelligent d’automatisation d’arrosage de jardin.

@@ -30,7 +30,7 @@ Finistère ⚓ Le Havre
 
 ## 🛰️ Ship Position – Plugin Windy (2025–2026)
 Affichage en temps réel de la position d’un navire via données GNSS  
-(NMEA série → TCP → Windy).
+TCP/COM. AIS. Vérification modèle météo. Historique sur 24 H.
 
 🔗 https://yannkerherve.github.io/position-plugin
 

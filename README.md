@@ -87,7 +87,6 @@ Système intelligent d’automatisation d’arrosage de jardin.
 
 ---
 
-## 🤖 Robotique & embarqué
 ## 🤖 Robotique & Embarqué
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)

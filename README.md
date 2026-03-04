@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-⚓ Élève Officier de la Marine Marchande • Développeur • Passionné de Robotique Offshore
+⚓ Cadet in the Merchant Navy • Developer • Offshore Robotics Enthusiast
 </h3>
 
 <p align="center">

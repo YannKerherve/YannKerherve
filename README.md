@@ -4,111 +4,160 @@
 </p>
 
 <h3 align="center">
-⚓ Cadet in the Merchant Navy • Developer • Offshore Robotics Enthusiast
+⚓ Élève Officier de la Marine Marchande • Développeur • Passionné de Robotique Offshore
 </h3>
 
 <p align="center">
 Finistère ⚓ Le Havre  
-Élève polyvalent à l'ENSM
+Élève polyvalent à l’ENSM
 </p>
 
 ---
 
 # 🌊 À propos de moi
 
-- ⚓ Étudiant **ENSM – Marine Marchande**
-- ⛵ Passionné de **voile & technologies marines**
-- 💻 Développement **Python • Web • C++**
+- ⚓ Élève à l’**ENSM – École Nationale Supérieure Maritime**
+- ⛵ Passionné de **bateaux**
+- 💻 Développement **Python • C++ • Web**
 - 🤖 Robotique & systèmes embarqués
-- 🌍 Créateur de plugins pour **Windy**
+- 🌍 Créateur de plugins pour Windy
 - 📡 Spécialisé en **NMEA • ArduPilot • GNSS**
+- 🧠 Architecture complète : du capteur au cloud
 
 ---
 
 # 🚀 Projets phares
 
-### 🛰️ Ship Position – Windy plugin  
-Affichage de la position d’un navire en temps réel via données GNSS.
+## 🛰️ Ship Position – Plugin Windy (2025–2026)
+Affichage en temps réel de la position d’un navire via données GNSS  
+(NMEA série → TCP → Windy).
 
 🔗 https://yannkerherve.github.io/position-plugin
 
+---
 
-### 🛥️ HydroSpeed – Hydrocontest  
-Conception d’un bateau autonome et éco-efficient.
+## 🛥️ HydroSpeed – Hydrocontest (2024–2026)
+Conception et construction d’un bateau autonome et éco-efficient.  
+Optimisation énergétique, propulsion, architecture embarquée.
 
 🔗 https://hydrospeedteam.fr
 
-### ⛵ HydroSailing team – Hydrocontest  
-Respo Com' et site internet.
+---
+
+## ⛵ HydroSailing Team (2025–2026)
+Responsable communication & développement du site internet.
 
 🔗 https://hydrosailingteam.com
 
-### 📖 C18LW  
-Outil de recherche et de comparaisons de nombreux livres entiers entre eux.
+---
 
-🔗 https://à-venir.fr/
+## 📖 C18LW (2025–2026)
+Outil de recherche et de comparaison de livres complets.
 
-### 🗺️ Olex to GPX  
-Permettre l'export d'une route créée avec Olex vers un ECDIS.
-
-🔗 https://github.com/YannKerherve/Olex-to-GPX
-
-### 🛥️ Ammare ton bateau 
-Permettre l'export d'une route créée avec Olex vers un ECDIS.
-
-🔗 https://github.com/YannKerherve/Olex-to-GPX
-
-### 🌱 Arros'heure
-Permettre l'automatisation de l'arrosage d'un jardin.
-
-🔗 https://sites.google.com/view/arros-heure/
-
+🔗 https://a-venir.fr/
 
 ---
 
-# 🛠️ Tech & outils
+## 🗺️ Olex to GPX (2025)
+Conversion de routes Olex vers le format GPX pour intégration ECDIS.
 
-### 💻 Langages
+🔗 https://github.com/YannKerherve/Olex-to-GPX
+
+---
+
+## 🛥️ Ammarre ton bateau (2022)
+Système automatisé de prise de coffre pour voiliers.
+
+🔗 https://sites.google.com/view/amarretonbateau/
+
+---
+
+## 🌱 Arros’heure (2020)
+Système intelligent d’automatisation d’arrosage de jardin.
+
+🔗 https://sites.google.com/view/arros-heure/
+
+---
+
+# 🛠️ Technologies & Outils
+
+## 💻 Programmation
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
 
-### ⚙️ Environnements
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+---
 
-### 🧭 Spécialités
-`NMEA` • `ArduPilot` • `GNSS` • `Marine systems` • `Embedded robotics`
+## 🤖 Robotique & embarqué
+Arduino  
+Raspberry Pi  
+Capteurs IMU  
+GNSS  
+ArduPilot  
+NMEA  
+Systèmes embarqués marins  
 
 ---
 
-# 📊 GitHub Stats
+## 🌐 Web & Cloud
+Apache  
+Supabase  
+Resend  
+Cloudflare  
+Tunnel DNS (ngrok)  
+Let’s Encrypt (certificats SSL)  
+Déploiement Linux VPS  
+
+---
+
+## 📱 Développement mobile
+App Inventor  
+Android Studio  
+Applications utilisant IMU, GNSS et TCP  
+
+---
+
+## 🧰 Conception & fabrication
+Autodesk Inventor  
+FreeCAD  
+Impression 3D  
+Prototypage mécanique  
+
+---
+
+## 🎨 Design & communication
+Canva  
+Dossiers de sponsoring  
+Communication technique de projets  
+
+---
+
+# 📊 Statistiques GitHub
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=YannKerherve&theme=tokyonight" />
 </p>
 
-
 ---
 
-# 🌱 Currently learning
+# 🌱 En cours d’apprentissage
 
-⚡ Concevoir, construire et programmer un bateau pour l’Hydrocontest
-📳 Plugin Windy : Recevoir la connexion TCP - NMEA sur l'application Android de Windy
-📖 C18LW : à venir...
+⚡ Concevoir, construire et programmer un bateau pour l’Hydrocontest  
+📳 Intégration TCP NMEA dans l’application Android Windy  
+📖 Développement du moteur d’analyse avancé de C18LW  
 
 ---
 
 # 🧭 Objectifs 2026
 
-❄️ Mesurer l’épaisseur de la banquise
-🧭 Application d'estime par acéleromètre
+❄️ Mesurer l’épaisseur de la banquise  
+🧭 Développer une application d’estime par accéléromètre  
+🚢 Optimiser énergétiquement un système de propulsion léger  
 
 ---
-
 
 # 📫 Contact
 
@@ -120,4 +169,6 @@ Permettre l'automatisation de l'arrosage d'un jardin.
 
 ---
 
-# 🌊 “Code, Wind & Open Sea”
+<p align="center">
+🌊 <b>Code, Vent & Grand Large</b>
+</p>

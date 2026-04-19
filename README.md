@@ -27,7 +27,7 @@ Finistère ⚓ Le Havre
 ---
 
 # 🚀 Projets phares
-## 🛰️ Route – Plugin Windy (2025–2026)
+## 🗺️ Route – Plugin Windy (2026)
 Affichage de la route et de la position future du bateau en fonction de l'heure sélectionnée sur Windy.
 à partir des tableaux de marche de Simsail, Adrena et Tactics. Lien d'installation à mettre dans "install directly from URL".
 

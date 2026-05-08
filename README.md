@@ -58,7 +58,7 @@ Responsable communication & développement du site internet.
 ## 📖 C18LW (2025–2026)
 Outil de recherche et de comparaison de livres complets.
 
-🔗 https://en-attente-de-parution-oficielle.fr/
+🔗 [https://c18lw.pages.dev](https://c18lw.pages.dev/)
 
 
 ## 🗺️ Olex to GPX (2025)

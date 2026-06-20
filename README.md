@@ -152,8 +152,8 @@ Système intelligent d’automatisation d’arrosage de jardin.
 
 # 🌱 En cours d’apprentissage
 
-⚡ Concevoir, construire et programmer un bateau pour l’Hydrocontest  
-📳 Intégration TCP NMEA dans l’application Android Windy  
+⚡ Weather Score : Carte du meilleur modèle météo et GRIB multimodèle pour routage
+📳 Intégration TCP NMEA dans l’application Android/iOS Windy  
 📖 Dévoillement du moteur d’analyse avancé de C18LW  
 
 ---
@@ -161,8 +161,7 @@ Système intelligent d’automatisation d’arrosage de jardin.
 # 🧭 Objectifs 2026
 
 ❄️ Mesurer l’épaisseur de la banquise  
-🧭 Développer une application d’estime par accéléromètre  
-🚢 Optimiser énergétiquement un système de propulsion léger  
+🧭 Développer une application d’estime par accéléromètre   
 
 ---
 

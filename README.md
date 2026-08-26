@@ -27,9 +27,14 @@ Finistère ⚓ Le Havre
 ---
 
 # 🚀 Projets phares
-## 🗺️ Route – Plugin Windy (2026)
+## 🛥️ WeatherScore
+Choix du meilleur modèle météo disponible
+
+## 🗺️ Nav Tools – Plugin Windy (2026)
 Affichage de la route et de la position future du bateau en fonction de l'heure sélectionnée sur Windy.
 à partir des tableaux de marche de Simsail, Adrena et Tactics. Lien d'installation à mettre dans "install directly from URL".
+Affichage de la carto maritime internationale (open sea Map)
+Règle cras
 
 🔗 windy-plugins.com/14130635/windy-plugin-route/0.1.2/plugin.min.js
 
@@ -154,11 +159,11 @@ Système intelligent d’automatisation d’arrosage de jardin.
 
 ⚡ Weather Score : Carte du meilleur modèle météo et GRIB multimodèle pour routage
 📳 Intégration TCP NMEA dans l’application Android/iOS Windy  
-📖 Dévoillement du moteur d’analyse avancé de C18LW  
+
 
 ---
 
-# 🧭 Objectifs 2026
+# 🧭 Objectifs 2027/2028
 
 ❄️ Mesurer l’épaisseur de la banquise  
 🧭 Développer une application d’estime par accéléromètre   

@@ -27,7 +27,7 @@ Finistère ⚓ Le Havre
 ---
 
 # 🚀 Projets phares
-## 🛥️ WeatherScore
+## 🛥️ WeatherScore (2026 - 2027)
 Choix du meilleur modèle météo disponible
 
 ## 🗺️ Nav Tools – Plugin Windy (2026)
@@ -54,7 +54,7 @@ Optimisation énergétique, propulsion, architecture embarquée.
 🔗 https://hydrospeedteam.fr
 
 
-## ⛵ HydroSailing Team (2025–2026)
+## ⛵ HydroSailing Team (2025–2027)
 Responsable communication & développement du site internet.
 
 🔗 https://hydrosailingteam.com
